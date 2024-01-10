@@ -28,8 +28,10 @@ input{
     background: transparent;
     box-shadow: 0px 3px 15px rgbs(84,84,84,0.1);
     font-size: 40px;
+    color: #ffffff;
     text-align: right;
     cursor: pointer;
+    
 }
 input::placeholder{
     color: #ffffff;
